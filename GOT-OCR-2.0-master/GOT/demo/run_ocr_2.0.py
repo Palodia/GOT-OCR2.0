@@ -453,6 +453,3 @@ if __name__ == "__main__":
 
     # eval_model(args)
     eval_model_cpu(args)
-
-    # 命令行指令 "D:\Works\OCR\GOT-OCR\GOT-OCR2.0\GOT-OCR-2.0-master\GOT\demo\run_ocr_2.0.py"
-    # python D:/Works/OCR/GOT-OCR/GOT-OCR2.0/GOT-OCR-2.0-master/GOT/demo/run_ocr_2.0.py  --model-name  D:/Works/OCR/GOT-OCR/data/GOT_weights/  --image-file  D:/Works/OCR/GOT-OCR/data/image/2.jpg  --type ocr
